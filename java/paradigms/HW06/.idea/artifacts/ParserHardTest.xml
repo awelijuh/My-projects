@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParserHardTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParserHardTest</output-path>
+    <root id="archive" name="HW06.jar">
+      <element id="module-output" name="HW06" />
+    </root>
+  </artifact>
+</component>
